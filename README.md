@@ -1,4 +1,4 @@
-###My skills ⚡
+### My skills ⚡
 * Angular
 * JavaScript
 * HTML
