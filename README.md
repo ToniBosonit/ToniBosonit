@@ -1,4 +1,8 @@
-### Hi there 👋
+### My skills ⚡
+* Angular
+* HTML
+* CSS
+* JavaScript
 
 <!--
 **ToniBosonit/ToniBosonit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
