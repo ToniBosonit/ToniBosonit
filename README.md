@@ -1,6 +1,7 @@
 ### My skills ⚡
 * Angular
 * JavaScript
+* TypeScript
 * HTML
 * CSS
 
