@@ -1,9 +1,4 @@
 ### My skills ⚡
-* Angular
-* HTML
-* CSS
-* JavaScript
-
 
 
 <!--
